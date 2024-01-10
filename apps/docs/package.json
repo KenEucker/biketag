@@ -12,15 +12,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "ui": "workspace:*"
+    "ui": "*"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "eslint": "^8.56.0",
-    "eslint-config-custom": "workspace:*",
+    "eslint-config-custom": "*",
     "nuxt": "^3.9.0",
-    "tsconfig": "workspace:*",
+    "tsconfig": "*",
     "vue": "^3.4.5",
     "vue-router": "^4.2.5"
   }

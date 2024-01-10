@@ -11,7 +11,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "ui": "workspace:*",
+    "ui": "*",
     "vue": "^3.4.5"
   },
   "devDependencies": {
@@ -20,10 +20,10 @@
     "@types/node": "^20.10.6",
     "@vitejs/plugin-vue": "^5.0.2",
     "eslint": "^8.56.0",
-    "eslint-config-custom": "workspace:*",
+    "eslint-config-custom": "*",
     "eslint-plugin-vue": "^9.19.2",
     "npm-run-all2": "^6.1.1",
-    "tsconfig": "workspace:*",
+    "tsconfig": "*",
     "typescript": "~5.3.3",
     "vite": "^5.0.10",
     "vue-tsc": "^1.8.27"

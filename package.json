@@ -1,6 +1,5 @@
 {
-  "name": "with-vue-nuxt",
-  "private": true,
+  "name": "biketag",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",

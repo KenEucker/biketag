@@ -1,0 +1,12 @@
+[submodule "packages/biketag-api"]
+	path = packages/biketag-api
+	url = git@github.com:KenEucker/biketag-api.git
+[submodule "apps/biketag-app"]
+	path = apps/biketag-app
+	url = git@github.com:KenEucker/biketag-app.git
+[submodule "packages/biketag-vue"]
+	path = packages/biketag-vue
+	url = git@github.com:KenEucker/biketag-vue.git
+[submodule "packages/biketag-admin"]
+	path = packages/biketag-admin
+	url = git@github.com:KenEucker/biketag-admin.git

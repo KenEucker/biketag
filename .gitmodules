@@ -10,3 +10,9 @@
 [submodule "packages/biketag-admin"]
 	path = packages/biketag-admin
 	url = git@github.com:KenEucker/biketag-admin.git
+[submodule "apps/biketag-games"]
+	path = apps/biketag-games
+	url = git@github.com:KenEucker/biketag-games.git
+[submodule "apps/biketag-administration"]
+	path = apps/biketag-administration
+	url = git@github.com:KenEucker/biketag-administration.git

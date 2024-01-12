@@ -1,3 +1,8 @@
+
+<div align="center">
+<img alt="biketag-vue logo" src="https://raw.githubusercontent.com/keneucker/biketag-website/production/public/img/Tag-Logo-Stacked-V2-medium.png" height="auto" width="200" style="border-radius:25%;">
+</div>
+
 # Biketag Monorepo
 
 ## Introduction
